@@ -1,5 +1,7 @@
-include iostream.h
+#include iostream.h
 void main(void)
 {
-  
+  int a=0;
+  import logging
+  import telegram
 }
